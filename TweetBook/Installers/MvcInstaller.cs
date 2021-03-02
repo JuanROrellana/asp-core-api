@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using TweetBook.Options;
+using TweetBook.Services;
 
 namespace TweetBook.Installers
 {
@@ -40,6 +41,8 @@ namespace TweetBook.Installers
             var jwtSettings = new JwtSettings();
             configuration.Bind(nameof(JwtSettings),jwtSettings);
             services.AddSingleton(jwtSettings);
+
+            services.AddScoped<IIdentityService, IdentityService>();
             
             //Add Auth
             services.AddAuthentication(x =>
@@ -57,7 +60,8 @@ namespace TweetBook.Installers
                         IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(jwtSettings.Secret)),
                         ValidateAudience = false,
                         RequireExpirationTime = false,
-                        ValidateLifetime = true
+                        ValidateLifetime = true,
+                        ValidateIssuer  = false
                     };
                 });
         }
