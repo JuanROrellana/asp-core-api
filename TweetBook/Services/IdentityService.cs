@@ -39,9 +39,29 @@ namespace TweetBook.Services
             if (!createduser.Succeeded)
                 return new AuthenticationResult { Errors = createduser.Errors.Select(x => x.Description) };
 
+            return GenerateAuthenticationResultForUser(newUser);
+        }
+
+        public async Task<AuthenticationResult> LoginAsync(string Email, string Password)
+        {
+            var user = await _userManager.FindByEmailAsync(Email);
+            
+            if (user == null)
+                return new AuthenticationResult { Errors = new[] { "User does not exist" } };
+            
+            var userHasValidPassword = await _userManager.CheckPasswordAsync(user, Password);
+            
+            if (!userHasValidPassword)
+                return new AuthenticationResult { Errors = new[] { "User does not have a valid password" } };
+            
+            return GenerateAuthenticationResultForUser(user);
+        }
+
+        private AuthenticationResult GenerateAuthenticationResultForUser(IdentityUser newUser)
+        {
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(_jwtSettings.Secret);
-            var TokenDescriptor = new SecurityTokenDescriptor
+            var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(
                     new [] {
@@ -55,15 +75,11 @@ namespace TweetBook.Services
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };
 
-            var token = tokenHandler.CreateToken(TokenDescriptor);
-
-            var testToken = tokenHandler.WriteToken(token);
-
+            var token = tokenHandler.CreateToken(tokenDescriptor);
             return new AuthenticationResult{
                 Success = true,
                 Token = tokenHandler.WriteToken(token)
             };
-
         }
     }
 }
