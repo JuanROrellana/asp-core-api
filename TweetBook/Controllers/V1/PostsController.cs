@@ -23,6 +23,7 @@ namespace TweetBook.Controllers.V1
         }
 
         [HttpGet(ApiRoutes.Posts.GetAll)]
+        [Authorize(Policy = "TagViewer")]
         public async Task<IActionResult> GetAl()
         {
             return Ok(await _postService.GetAllAsync());
@@ -43,7 +44,7 @@ namespace TweetBook.Controllers.V1
             if (!userOwnsPost)
                 return BadRequest(new { error = "You don't own this post" });
 
-            var deleted = await _postService.DeletePosstAsync(postId);
+            var deleted = await _postService.DeletePostAsync(postId);
             if (deleted)
                 return NoContent();
 

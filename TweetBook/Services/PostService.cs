@@ -53,7 +53,7 @@ namespace TweetBook.Services
             return update > 0;
         }
         
-        public async Task<bool> DeletePosstAsync(Guid id)
+        public async Task<bool> DeletePostAsync(Guid id)
         {
             var post = await GetByIdAsync(id);
             if (post == null)
