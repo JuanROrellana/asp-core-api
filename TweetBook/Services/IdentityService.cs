@@ -19,15 +19,18 @@ namespace TweetBook.Services
         private readonly UserManager<IdentityUser> _userManager;
         private readonly JwtSettings _jwtSettings;
         private readonly TokenValidationParameters _tokenValidationParameters;
-
         private readonly DataContext _dataContext;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public IdentityService(UserManager<IdentityUser> userManager, JwtSettings jwtSettings, TokenValidationParameters tokenValidationParameters, DataContext dataContext)
+        public IdentityService(UserManager<IdentityUser> userManager, JwtSettings jwtSettings, 
+            TokenValidationParameters tokenValidationParameters, DataContext dataContext, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _jwtSettings = jwtSettings;
             _tokenValidationParameters = tokenValidationParameters;
             _dataContext = dataContext;
+            _roleManager = roleManager;
+
         }
         public async Task<AuthenticationResult> RegisterAsync(string Email, string Password)
         {
@@ -80,9 +83,16 @@ namespace TweetBook.Services
                 new Claim("id", user.Id),
                 // new Claim("tags.view", "true")
             };
+            
+            var userRoles = await _userManager.GetRolesAsync(user);
 
-            // var userClaims = await _userManager.GetClaimsAsync(user);
-            // claims.AddRange(userClaims);
+            foreach (var rol in userRoles)
+            {
+                claims.Add(new Claim("role", rol));
+            }
+
+            var userClaims = await _userManager.GetClaimsAsync(user);
+            claims.AddRange(userClaims);
             
             var tokenDescriptor = new SecurityTokenDescriptor
             {

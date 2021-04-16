@@ -12,7 +12,7 @@ using TweetBook.Services;
 
 namespace TweetBook.Controllers.V1
 {
-    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin, Poster")]
     public class PostsController : ControllerBase
     {
         private readonly IPostService _postService;
@@ -23,7 +23,6 @@ namespace TweetBook.Controllers.V1
         }
 
         [HttpGet(ApiRoutes.Posts.GetAll)]
-        [Authorize(Policy = "TagViewer")]
         public async Task<IActionResult> GetAl()
         {
             return Ok(await _postService.GetAllAsync());
@@ -37,6 +36,7 @@ namespace TweetBook.Controllers.V1
         }
 
         [HttpDelete(ApiRoutes.Posts.Delete)]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete([FromRoute] Guid postId)
         {
             var userOwnsPost = await _postService.UserOwnsPostAsync(postId, HttpContext.GetUserId());
