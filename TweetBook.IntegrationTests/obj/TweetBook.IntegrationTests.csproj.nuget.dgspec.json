@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Ramirez\\Documents\\tests\\dotnet\\TweetBook\\TweetBook.IntegrationTests\\TweetBook.IntegrationTests.csproj": {}
+    "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/TweetBook.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Ramirez\\Documents\\tests\\dotnet\\TweetBook\\TweetBook.IntegrationTests\\TweetBook.IntegrationTests.csproj": {
+    "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/TweetBook.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Ramirez\\Documents\\tests\\dotnet\\TweetBook\\TweetBook.IntegrationTests\\TweetBook.IntegrationTests.csproj",
+        "projectUniqueName": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/TweetBook.IntegrationTests.csproj",
         "projectName": "TweetBook.IntegrationTests",
-        "projectPath": "C:\\Users\\Juan Ramirez\\Documents\\tests\\dotnet\\TweetBook\\TweetBook.IntegrationTests\\TweetBook.IntegrationTests.csproj",
-        "packagesPath": "C:\\Users\\Juan Ramirez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Ramirez\\Documents\\tests\\dotnet\\TweetBook\\TweetBook.IntegrationTests\\obj\\",
+        "projectPath": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/TweetBook.IntegrationTests.csproj",
+        "packagesPath": "/Users/juanramirez/.nuget/packages/",
+        "outputPath": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/juanramirez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -28,7 +25,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook/TweetBook.csproj": {
+                "projectPath": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook/TweetBook.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -41,6 +42,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
@@ -65,11 +70,107 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook/TweetBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook/TweetBook.csproj",
+        "projectName": "TweetBook",
+        "projectPath": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook/TweetBook.csproj",
+        "packagesPath": "/Users/juanramirez/.nuget/packages/",
+        "outputPath": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/juanramirez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

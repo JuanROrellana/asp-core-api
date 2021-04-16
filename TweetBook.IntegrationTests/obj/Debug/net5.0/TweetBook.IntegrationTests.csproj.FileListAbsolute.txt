@@ -1,99 +1,198 @@
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\nunit.engine.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\nunit.engine.api.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\TweetBook.IntegrationTests.deps.json
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\TweetBook.IntegrationTests.runtimeconfig.json
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\TweetBook.IntegrationTests.runtimeconfig.dev.json
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\TweetBook.IntegrationTests.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ref\TweetBook.IntegrationTests.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\TweetBook.IntegrationTests.pdb
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\testhost.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\NuGet.Frameworks.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\nunit.framework.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.csprojAssemblyReference.cache
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.AssemblyInfoInputs.cache
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.AssemblyInfo.cs
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.csproj.CoreCompileInputs.cache
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.csproj.CopyComplete
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\ref\TweetBook.IntegrationTests.dll
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.pdb
-C:\Users\Juan Ramirez\Documents\tests\dotnet\TweetBook\TweetBook.IntegrationTests\obj\Debug\net5.0\TweetBook.IntegrationTests.genruntimeconfig.cache
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/nunit.engine.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/nunit.engine.api.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.deps.json
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.runtimeconfig.json
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.runtimeconfig.dev.json
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ref/TweetBook.IntegrationTests.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.pdb
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/testhost.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/NuGet.Frameworks.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/nunit.framework.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.csprojAssemblyReference.cache
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.AssemblyInfoInputs.cache
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.AssemblyInfo.cs
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.csproj.CoreCompileInputs.cache
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.csproj.CopyComplete
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/ref/TweetBook.IntegrationTests.dll
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.pdb
+C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.genruntimeconfig.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/NUnit3.TestAdapter.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/NUnit3.TestAdapter.pdb
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/nunit.engine.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/nunit.engine.api.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.deps.json
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.runtimeconfig.json
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.runtimeconfig.dev.json
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ref/TweetBook.IntegrationTests.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.IntegrationTests.pdb
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.DotNet.InternalAbstractions.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/testhost.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/nunit.framework.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.csprojAssemblyReference.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.AssemblyInfoInputs.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.AssemblyInfo.cs
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.csproj.CoreCompileInputs.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.csproj.CopyComplete
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/ref/TweetBook.IntegrationTests.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.pdb
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/obj/Debug/net5.0/TweetBook.IntegrationTests.genruntimeconfig.cache
