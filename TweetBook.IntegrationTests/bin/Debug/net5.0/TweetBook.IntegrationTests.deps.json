@@ -1990,13 +1990,22 @@
           "Microsoft.EntityFrameworkCore.Tools": "5.0.3",
           "Swashbuckle.AspNetCore.Swagger": "6.0.7",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.0.7",
-          "Swashbuckle.AspNetCore.SwaggerUI": "6.0.7"
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.0.7",
+          "TweetBook.Contracts": "1.0.0"
         },
         "runtime": {
           "TweetBook.dll": {}
         },
         "compile": {
           "TweetBook.dll": {}
+        }
+      },
+      "TweetBook.Contracts/1.0.0": {
+        "runtime": {
+          "TweetBook.Contracts.dll": {}
+        },
+        "compile": {
+          "TweetBook.Contracts.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -4610,6 +4619,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "TweetBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TweetBook.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

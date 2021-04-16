@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ycfEdl+oiS2ros9mVgBTq+FPpfnAPahMFL+bFgSgpPfQanYSUY9FoegE+Kz/gPOFoXesuRbgNwz2Jw99m5SUXg==",
+  "dgSpecHash": "v5W7w9iEz2xSle2MXvEzF/ZXumfUGpI6N4vFqiFethBELqwdqAuVWwptEWPiPEz3YDTfMhfFbO1wkU1Lg7Ysog==",
   "success": true,
   "projectFilePath": "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/TweetBook.IntegrationTests.csproj",
   "expectedPackageFiles": [

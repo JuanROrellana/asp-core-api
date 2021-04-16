@@ -2260,7 +2260,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "5.0.3",
           "Swashbuckle.AspNetCore.Swagger": "6.0.7",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.0.7",
-          "Swashbuckle.AspNetCore.SwaggerUI": "6.0.7"
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.0.7",
+          "TweetBook.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TweetBook.dll": {}
@@ -2271,6 +2272,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "TweetBook.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TweetBook.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TweetBook.Contracts.dll": {}
+        }
       }
     }
   },
@@ -7274,6 +7285,11 @@
       "type": "project",
       "path": "../TweetBook/TweetBook.csproj",
       "msbuildProject": "../TweetBook/TweetBook.csproj"
+    },
+    "TweetBook.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../TweetBook.Contracts/TweetBook.Contracts.csproj",
+      "msbuildProject": "../TweetBook.Contracts/TweetBook.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {

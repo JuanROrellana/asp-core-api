@@ -1,0 +1,12 @@
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/bin/Debug/net5.0/TweetBook.Contracts.deps.json
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/bin/Debug/net5.0/TweetBook.Contracts.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/bin/Debug/net5.0/ref/TweetBook.Contracts.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/bin/Debug/net5.0/TweetBook.Contracts.pdb
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.csprojAssemblyReference.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.AssemblyInfoInputs.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.AssemblyInfo.cs
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.csproj.CoreCompileInputs.cache
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/ref/TweetBook.Contracts.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts/obj/Debug/net5.0/TweetBook.Contracts.pdb

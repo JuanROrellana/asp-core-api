@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook", "TweetBook\Twee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.IntegrationTests", "TweetBook.IntegrationTests\TweetBook.IntegrationTests.csproj", "{C975F821-C2D5-4FF0-8F1A-6D79B16855EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Sdk", "TweetBook.Sdk\TweetBook.Sdk.csproj", "{7A5EDE9A-3661-4D2C-BE10-A50C7689DE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Sdk.Sample", "TweetBook.Sdk.Sample\TweetBook.Sdk.Sample.csproj", "{BEE4B760-7036-4924-A1AA-62C06C9EFB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Contracts", "TweetBook.Contracts\TweetBook.Contracts.csproj", "{08D9E88A-4F12-4FA2-99F6-ACA38BEF51D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{C975F821-C2D5-4FF0-8F1A-6D79B16855EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C975F821-C2D5-4FF0-8F1A-6D79B16855EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C975F821-C2D5-4FF0-8F1A-6D79B16855EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5EDE9A-3661-4D2C-BE10-A50C7689DE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5EDE9A-3661-4D2C-BE10-A50C7689DE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5EDE9A-3661-4D2C-BE10-A50C7689DE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5EDE9A-3661-4D2C-BE10-A50C7689DE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE4B760-7036-4924-A1AA-62C06C9EFB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE4B760-7036-4924-A1AA-62C06C9EFB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE4B760-7036-4924-A1AA-62C06C9EFB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE4B760-7036-4924-A1AA-62C06C9EFB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D9E88A-4F12-4FA2-99F6-ACA38BEF51D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D9E88A-4F12-4FA2-99F6-ACA38BEF51D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D9E88A-4F12-4FA2-99F6-ACA38BEF51D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D9E88A-4F12-4FA2-99F6-ACA38BEF51D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

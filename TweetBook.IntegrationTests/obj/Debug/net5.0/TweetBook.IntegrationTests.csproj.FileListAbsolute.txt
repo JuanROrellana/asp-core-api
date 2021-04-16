@@ -531,3 +531,5 @@ C:/Users/Juan Ramirez/Documents/tests/dotnet/TweetBook/TweetBook.IntegrationTest
 /Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.dll
 /Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.pdb
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.Contracts.dll
+/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.IntegrationTests/bin/Debug/net5.0/TweetBook.Contracts.pdb

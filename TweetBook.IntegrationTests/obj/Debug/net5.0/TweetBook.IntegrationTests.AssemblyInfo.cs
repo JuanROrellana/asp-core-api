@@ -11,6 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("TweetBook.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook.Contracts", "TweetBook.Contracts.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("TweetBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/juanramirez/Documents/programing/dotnet/asp-core-api/TweetBook", "TweetBook.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TweetBook.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
