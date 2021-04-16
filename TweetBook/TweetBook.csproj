@@ -16,6 +16,7 @@
         <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.3" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.3" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.3" />
+        <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="6.0.0-preview.3.21201.13" />
         <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.0.7" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.0.7" />
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.0.7" />
